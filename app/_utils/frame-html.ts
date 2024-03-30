@@ -39,7 +39,7 @@ export const homeHtml = (host: string, page: number=0) => `
 
       <body>
         <figure>
-            Introduction of fetch-from-fc-hub
+            <img width="600" src="${ host }/${ frameImages[0] }" />
         </figure>
       </body>
     </html>
